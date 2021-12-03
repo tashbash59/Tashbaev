@@ -1,0 +1,4 @@
+.gitignore
+experimental.txt
+log.log
+text.txt
